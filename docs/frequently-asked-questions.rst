@@ -20,7 +20,7 @@ For a :term:`JSON` response, make a simple GET request to the endpoint. For exam
 
 ::
 	
-	https://api.whoishippo.com/v1/json/ABCD1234/microsoft.com
+	https://api.whoishippo.com/v1/ABCD1234/microsoft.com
 	
 
 What comes back from the API?
