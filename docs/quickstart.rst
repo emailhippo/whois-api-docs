@@ -18,7 +18,7 @@ Plug your license key into the following
 
 ::
 
-	https://api.whoishippo.com/v1/json/INSERTYOURLICENSEKEY/microsoft.com
+	https://api.whoishippo.com/v1/INSERTYOURLICENSEKEY/microsoft.com
 		
 Paste the url above into your browser and watch the response come back as in the example below:
 
